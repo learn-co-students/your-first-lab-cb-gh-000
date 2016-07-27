@@ -12,7 +12,7 @@ Now that you've got the Learn IDE up and running, you're going to use it to solv
 
 ## Instructions
 
-This lab is just about practicing the lab workflow on Learn using the `learn` CLI.
+In this this lesson you will practice the workflow that allows you to solve labs on Learn.
 
 1. Click on the "Open" link on the lab toolbar above.
 
