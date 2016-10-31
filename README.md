@@ -44,6 +44,6 @@ You should see this lab pass on Learn.co (if you don't, try hitting refresh, if 
 
 ## Video Demo
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/R-G9JuXDuCk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/MZ2vUG6p1PY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-5'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
