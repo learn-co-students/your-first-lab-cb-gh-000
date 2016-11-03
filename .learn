@@ -5,7 +5,3 @@ languages:
   - language_1
   - language_1
 resources: 0
-events:
-  intro_track_complete: true
-after_ide_submission: https://learn.co/ide/first_lab
-github: false
