@@ -24,7 +24,7 @@ After you click on this, your Learn IDE will launch.
 
 3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. 
 
-![lab-fail](https://s3.amazonaws.com/learn-verified/hello-world-ide.jpg)
+![lab-fail](https://s3.amazonaws.com/learn-verified/IDE.png)
 
 5. You'll see something similar to:
 
