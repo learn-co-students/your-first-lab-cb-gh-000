@@ -1,0 +1,5 @@
+var learn = [
+'Javascrip', 'Express.js', 'AngularJS', 'NodeJS', 360
+];
+
+document.write(learn);
