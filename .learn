@@ -6,4 +6,4 @@ languages:
   - language_1
 resources: 0
 events:
-  intro_track_complete_cpb: true
+  intro_track_complete_cpb: tru
