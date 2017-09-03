@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello :D
+=======
+Hello :D
+>>>>>>> 2d4ad294355581f5e2a0af1003b3feb5ca82391e
