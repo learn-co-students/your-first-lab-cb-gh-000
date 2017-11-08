@@ -1,2 +1,6 @@
 made a change
+<<<<<<< HEAD
 hihiasdalf
+=======
+hihiasdalf
+>>>>>>> 8a4a58fae7359a6e2dc7a1601183f47f63b8f556
