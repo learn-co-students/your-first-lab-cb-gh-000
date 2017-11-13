@@ -1,1 +1,1 @@
-rspec ./spec/first.lab_spec.rb:4
+Hello World!
