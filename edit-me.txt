@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello World!
+=======
+Hello World! two times
+>>>>>>> 38774071f6fc5ffa42edb1c9cce30f39b57b5003
