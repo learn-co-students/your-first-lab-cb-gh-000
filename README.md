@@ -39,7 +39,7 @@ The failure reads: `Make sure you have edited the file edit-me.txt`
 7. Once your local tests are passing, you can submit this lab by running `learn submit` from your terminal.
 
 ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
-gg
+
 You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab.
 
 ## Video Demo
