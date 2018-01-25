@@ -1,3 +1,3 @@
-RSpec.configure do |config|
+dRSpec.configure do |config|
   config.order = :default
 end
