@@ -10,6 +10,7 @@ Now that you've got the Learn IDE up and running, you're going to use it to solv
 4. Pass the tests using the `learn` CLI command
 5. Submit the passing lab with the `learn submit` CLI command
 
+
 ## Instructions
 
 In this lesson you will practice the workflow that allows you to solve labs on Learn.
