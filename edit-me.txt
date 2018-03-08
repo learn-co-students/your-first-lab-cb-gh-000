@@ -1,0 +1,7 @@
+this is my first lab at learn
+<<<<<<< HEAD
+ldnjdnckjnd;cnkad;ckjnadj;cn
+=======
+ldnjdnckjnd;cnkad;ckjnadj;cn
+>>>>>>> 5e75e6495869d6fbdb39446e4237d3425891df0e
+kadckndnckadlcn
