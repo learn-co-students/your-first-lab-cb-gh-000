@@ -1,1 +1,3 @@
-hello
+<!doctype html>
+<html>
+</html>
