@@ -1,8 +1,8 @@
-# Solving Your First Lab
+# :bulb: Solving Your First Lab
 
 Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. 
 
-## Objectives
+## :pencil2: Objectives
 
 1. Open a lab by clicking "Open" on this page on Learn.co
 2. Run the lab's tests with the `learn` CLI command
@@ -10,7 +10,7 @@ Now that you've got the Learn IDE up and running, you're going to use it to solv
 4. Pass the tests using the `learn` CLI command
 5. Submit the passing lab with the `learn submit` CLI command
 
-## Instructions
+## :clipboard: Instructions
 
 In this lesson you will practice the workflow that allows you to solve labs on Learn.
 
@@ -42,8 +42,8 @@ The failure reads: `Make sure you have edited the file edit-me.txt`
 
 You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
 
-## Video Demo
+## :dvd: Video Demo
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/MZ2vUG6p1PY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/MZ2vUG6p1PY?rel=0&amp;showinfo=0" frameborder="0"></iframe>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-5'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
