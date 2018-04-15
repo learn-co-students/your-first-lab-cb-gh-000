@@ -1,2 +1,1 @@
-AsSalaamu Alaikum!
-This is my first Lab program so far
+Hey, It's me Abdul here. I would like to thank GitHub for providing me with this awesome Bootcamp!
