@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Zinda"
+=======
+"Zinda"
+>>>>>>> 6ec18945dac9ea33db35b8a96c8a468f5cadc438
