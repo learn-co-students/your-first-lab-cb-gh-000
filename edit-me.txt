@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi hell
+=======
+hi hell
+>>>>>>> 40965e4f202bff7754b1bc8d3a46baba46dd6195
+hell me hell you
