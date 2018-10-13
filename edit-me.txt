@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Hello World!
+=======
+Hello World!
+>>>>>>> c458728f0f9661d467da312cce7344c8a9a00729
+Hello test
