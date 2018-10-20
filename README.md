@@ -1,6 +1,6 @@
-# Solving Your First Lab
+ # Solving Your First Lab
 
-Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. 
+Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn.
 
 ## Objectives
 
@@ -18,11 +18,11 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
 ![Open](https://s3.amazonaws.com/learn-verified/SolvingYourFirstLab.png)
 
-After you click on this, your Learn IDE will launch. 
+After you click on this, your Learn IDE will launch.
 
 2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
 
-3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. 
+3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter.
 
 ![lab-fail](https://s3.amazonaws.com/learn-verified/IDE.png)
 
@@ -40,7 +40,7 @@ The failure reads: `Make sure you have edited the file edit-me.txt`
 
 ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab.
 
 ## Video Demo
 
