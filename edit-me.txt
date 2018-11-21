@@ -1,0 +1,2 @@
+Use: learn-open
+IF: the IDE doesn't open from website's 'Open IDE' button
