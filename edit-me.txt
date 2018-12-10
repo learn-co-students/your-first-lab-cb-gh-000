@@ -1,0 +1,1 @@
+6. To pass this lab, make any change to the `edit-me.txt` file (this file starts of empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
