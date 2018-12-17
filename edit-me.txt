@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-Yayayay!
-=======
-Yayayay!
->>>>>>> 877726f66e217ca35f37313c0b3649e754a12e8f
+Hello World!
+Hello World!
+
+Hello World!
+
+Hello World!
