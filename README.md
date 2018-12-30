@@ -11,7 +11,7 @@ Now that you've got the Learn IDE up and running, you're going to use it to solv
 5. Submit the passing lab with the `learn submit` CLI command
 
 ## Instructions
-hello
+
 In this lesson you will practice the workflow that allows you to solve labs on Learn.
 
 1. Click on the "Open" link on the lab toolbar above.
