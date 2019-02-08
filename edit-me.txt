@@ -1,1 +1,2 @@
-This is another concept of learning Web development. How I wish is not trial period
+This is another concept of learning Web development. How I wish is not trial
+package.
