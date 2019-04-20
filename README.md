@@ -1,6 +1,6 @@
 # Solving Your First Lab
 
-Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn. 
+Now that you've got the Learn IDE up and running, you're going to use it to solve your very first lab on Learn.
 
 ## Objectives
 
@@ -18,11 +18,11 @@ In this lesson you will practice the workflow that allows you to solve labs on L
 
 ![Open](https://s3.amazonaws.com/learn-verified/SolvingYourFirstLab.png)
 
-After you click on this, your Learn IDE will launch. 
+After you click on this, your Learn IDE will launch.
 
 2. You should see all of the files associated with this lab in the Learn IDE's file browser on the left pane.
 
-3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter. 
+3. In the console on the bottom pane, run the test suite by typing `learn` and hitting enter.
 
 ![lab-fail](https://s3.amazonaws.com/learn-verified/IDE.png)
 
@@ -32,7 +32,7 @@ After you click on this, your Learn IDE will launch.
 
 You can see your test is currently failing, which is fine. We haven't done any work yet, so it makes sense.
 
-The failure reads: `Make sure you have edited the file edit-me.txt`
+The failure reads: `hahaha`
 
 6. To pass this lab, make any change to the `edit-me.txt` file (this file starts of empty). You can do this by clicking on the name of the file in the file browser in the left pane; the empty file will load in the text editor. Type into the text editor to change the contents of the file, then save your changes.
 
@@ -40,7 +40,7 @@ The failure reads: `Make sure you have edited the file edit-me.txt`
 
 ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab.
 
 ## Video Demo
 
