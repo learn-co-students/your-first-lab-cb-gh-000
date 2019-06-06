@@ -1,0 +1,12 @@
+import random as r
+side = int(input ("Hello, how many sides would you like the dice to have: "))
+roll = int(input ("and how many rolls?: "))
+totalValue = 0
+while roll!=0:
+        value = r.randint(1, side)
+        totalValue = totalValue + value
+        print(str(value))
+        print ("T="+str(totalValue))
+        roll = roll - 1
+
+
