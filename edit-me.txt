@@ -1,0 +1,6 @@
+bullshit
+<<<<<<< HEAD
+do something
+=======
+do something
+>>>>>>> 3c038120d79e66b9a58505a852bc0015cd2b7ab4
