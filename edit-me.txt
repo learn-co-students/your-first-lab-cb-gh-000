@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello!
+=======
+Hello Avi!
+>>>>>>> f0e4c5bb7ecaedb540258cf3fd48ac0708299bb3
