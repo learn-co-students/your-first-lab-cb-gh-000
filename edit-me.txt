@@ -1,1 +1,2 @@
-hi hello this is myfirst lesson
+hi hello this is myfirst lesso
+just concluded my first lesson in ruby
