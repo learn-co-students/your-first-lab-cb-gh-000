@@ -1,0 +1,3 @@
+hi hello this is myfirst lesso
+just concluded my first lesson in ruby
+still on it
