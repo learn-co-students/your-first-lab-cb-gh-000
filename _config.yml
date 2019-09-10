@@ -1,0 +1,10 @@
+---
+title: Your First Lab Cb Gh 000
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
