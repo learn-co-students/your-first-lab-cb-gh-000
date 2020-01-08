@@ -1,0 +1,8 @@
+#This is the first edit.
+
+from keras import layers
+
+config = layer.get_config()
+layer = layers.deserialize({'class_name': layer.__class__.__name__,
+                            'config': config})
+                            
